@@ -1,0 +1,16 @@
+{
+  "name": "express-grpc",
+  "version": "1.0.0",
+  "description": "hello world grpc with express",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Satria Budiman",
+  "license": "ISC",
+  "dependencies": {
+    "@grpc/proto-loader": "^0.5.0",
+    "express": "^4.16.4",
+    "grpc": "^1.20.0"
+  }
+}

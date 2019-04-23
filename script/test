@@ -1,0 +1,3 @@
+#!/bin/sh
+
+./client/node_modules/.bin/mocha ./client/test/client-test.js
